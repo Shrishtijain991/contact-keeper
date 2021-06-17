@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "func-names": "off"
+  },
+  "eslintConfig": {
+    "extends": ["react-app", "react-app/jest"]
+  }
+}
